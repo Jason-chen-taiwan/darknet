@@ -1,4 +1,4 @@
-# Yolo v4, v3 and v2 for Windows and Linux
+# Yolo v4, v3 and v2 for Windows and Linux(Code is using AlexyDB yolo)
 
 ## (neural networks for object detection)
 
